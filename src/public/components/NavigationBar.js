@@ -28,8 +28,8 @@ export default function NavigationBar() {
               title={<span style={style}>Products</span>}
               id="basic-nav-dropdown"
             >
-              <NavDropdown.Item href="#pos">Our POS</NavDropdown.Item>
-              <NavDropdown.Item href="#app">Our APP</NavDropdown.Item>
+              <NavDropdown.Item href="https://restaurant.tayari.co.tz">Our POS</NavDropdown.Item>
+              <NavDropdown.Item href="https://play.google.com/store/apps/details?id=com.tayari.client.tayari">Our APP</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
